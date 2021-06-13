@@ -1,4 +1,4 @@
-crash-reports/*
-logs/*
-*.bat
-*.jar
+Server.bat
+logs/
+server.jar
+crash-reports/
