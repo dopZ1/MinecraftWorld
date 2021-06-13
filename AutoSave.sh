@@ -8,4 +8,4 @@ git push origin master
 
 git status
 
-pause
+sleep 5s
