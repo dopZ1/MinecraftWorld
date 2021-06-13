@@ -1,4 +1,5 @@
-Server.bat
 logs/
-server.jar
 crash-reports/
+AutoSave.sh
+server.jar
+Server.bat
