@@ -1,4 +1,4 @@
-[Cc]rash-reports*/
-[Ll]ogs*/
+crash-reports/*
+logs/*
 *.bat
 *.jar
