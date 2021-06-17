@@ -2,4 +2,5 @@ logs/
 crash-reports/
 AutoSave.sh
 minecraft_server.1.16.5.jar
+server.jar
 Server.bat
